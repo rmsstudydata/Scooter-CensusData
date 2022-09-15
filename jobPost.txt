@@ -1,0 +1,94 @@
+I need Geojson files for census data of each zip code in the following cities,
+
+
+
+Brussels - Belgium
+
+Chicago - USA
+
+Washington DC - USA
+
+Detroit - USA
+
+Lisbon - Portugal
+
+Madrid - Spain
+
+Mexico City - Mexico
+
+Paris - France
+
+SanFrancisco - USA
+
+TelAviv - Israel
+
+Zurich - Switzerland
+
+
+
+Every geojson must have the following attributes for each zip code.
+
+
+
+1 - Population 
+
+2- Area (KM^2)
+
+3- Male to Female Ratio
+
+4- Unemployment Rate 
+
+5- Average Income per house
+
+6- Percentage of population with ages between 15-35
+
+7- Race distribution (e.g., black, white non-Hispanic, Asian, etc)
+
+8- Zip Code 
+
+9- Total House Units
+
+10- Political Inclination
+
+11- Average rent amount
+
+12- GDP
+
+
+
+Here are some related helpful resources 
+
+
+
+Detroit
+https://detroitmi.gov/webapp/census-data-map
+https://bestneighborhood.org/household-income-zurich-mt/
+Brussels
+https://www.citypopulation.de/en/belgium/brussels/ and geojson files 
+Chicago 
+https://robparal.com/chicago-data/
+https://chicagorealtor.com/realtor-tools/neighborhood-information/census-track-maps/
+https://bestneighborhood.org/household-income-zurich-mt/
+DC
+https://mtgis-portal.geo.census.gov/arcgis/apps/MapSeries/index.html?appid=2566121a73de463995ed2b2fd7ff6eb7
+https://bestneighborhood.org/household-income-zurich-mt/
+Lisbon
+https://drive.google.com/file/d/1FD1WZBMReMd-Uprdye5b0Rek4h9DZwos/view
+https://www.citypopulation.de/en/portugal/admin/11__lisboa/
+Madrid 
+https://danielalmazan.com/population/madrid_pop.html
+https://www.citypopulation.de/en/spain/madrid/madrid/28079__madrid/
+Mexico city
+https://blog.diegovalle.net/2013/04/maps-of-mexico-city.html
+Paris 
+https://www.citypopulation.de/en/france/cityofparis/
+https://en.wikipedia.org/wiki/Demographics_of_Paris
+SF
+https://bestneighborhood.org/conservative-vs-liberal-map-san-francisco-ca/
+https://bestneighborhood.org/household-income-zurich-mt/
+ Tel Aviv
+https://www.citypopulation.de/en/israel/admin/5__tel_aviv/
+https://datadrivenlab.org/urban/cities/tel-aviv/
+Zurich 
+https://datadrivenlab.org/urban/cities/zurich/
+https://worldpopulationreview.com/world-cities/zurich-population

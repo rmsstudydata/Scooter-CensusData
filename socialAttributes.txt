@@ -1,0 +1,20 @@
+Population	2,868.00
+Population Density (people per square mile)	583.12
+Caution: 18-24 year old (%)	6.80
+Income ($ per capita )	27,504.00
+Poverty (%)	19.68
+Unemployment (%)	12.61
+No Health Insurance (%)	15.27
+Education (%25+ no diploma)	12.31
+Children (% under 18)	20.40
+Elderly (% 65+)	25.77
+Single Parent (%)	43.11
+Disability (%)	20.36
+Minority (%)	2.51
+Limited English (%)	0.55
+Multi-Unit Housing (%)	10.08
+Mobile Homes (%)	7.63
+Crowding (% >1 person per room)	2.97
+No Vehicle Access (%)	15.69
+Group Quarters (%)	3.87
+Social Vulnerability Score
